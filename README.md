@@ -10,7 +10,7 @@
 
 ### โครงสร้างของโปรแกรม (Class diagram)
 
-``` mermaid
+```mermaid
 classDiagram
     Program<|--Form1
     Form1<|--Form2
